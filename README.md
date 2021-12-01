@@ -1,6 +1,6 @@
 # TrabajoPracticoFinal
 
-##El trabajo consiste en un programa tipo agenda que permite guardar en uba base de datos SQLite diversos campos:
+## El trabajo consiste en un programa tipo agenda que permite guardar en uba base de datos SQLite diversos campos:
 >Nombres
 >Apellidos
 >Correo
